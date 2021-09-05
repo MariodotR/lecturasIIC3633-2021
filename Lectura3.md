@@ -1,0 +1,9 @@
+**paper:** Guy, S., & Gunawardana, A.. (2011) “Evaluating recommendation systems.” In Recommender systems handbook, pp. 257-297. Springer US, 2011.
+
+El paper expone en detalle las distintas métricas (de predicción y ranking) y principios a considerar al momento de evaluar sistemas de recomendación basados en tres tipos de experimentos: *offline*, *estudios de usuarios* y *online*. 
+
+En cuanto a los experimiento del tipo *offline*, lo cuales son los más usuales pues son enfocados en evaluar el modelo basado en los datos disponibles. En consecuencia, al no necesitar una interacción directa con los usuarios, este tipo de experimentos tienen un bajo costo asociado, y esto, implica que será una oportunidad de experimentación mucho más extensiva en cuanto a cantidad de modelos a probar y selección de hiperparámetros. Sin embargo, hay que considerar que estaremos suponiendo que el comportamiento de los usuarios (capturado en la data disponible) es compatible con el sistema de recomendación, es más, aquellos resultados que buscan ser generalizables están sesgados a la data recolectada y entonces, la influencia única del modelo no puede ser medida. 
+
+Los estudios de las experiencias y percepciones de los *usuarios* resultan ser muy útiles para medir la satisfaccion de los clientes del sistema de recomendación pero son más caros de realizar. Además hay que considerar todos los factores que pueden influir en el estudio, como la selección de los usuarios a participar de manera que sea una muestra heterogénea y la forma en que se evaluarán las interacciones de los participantes con un modelo o una diversidad de ellos. 
+
+Los experimentos *online* buscan el seguimiento de los usuarios tras el consumo del sistema de recomendación. Estos estudios deben considerar más factores que pueden influir en el comportamiento de los usuarios y para validar sus resultados es usual utilizar test de hipótesis según corresponda con la metodología asociada. 
