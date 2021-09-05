@@ -1,4 +1,6 @@
-**paper:** Guy, S., & Gunawardana, A.. (2011) “Evaluating recommendation systems.” In Recommender systems handbook, pp. 257-297. Springer US, 2011.
+# Comentarios semana 3: Evaluando sistemas de recomendación
+
+**Paper:** Guy, S., & Gunawardana, A.. (2011) “Evaluating recommendation systems.” In Recommender systems handbook, pp. 257-297. Springer US, 2011.
 
 El paper expone en detalle las distintas métricas (de predicción y ranking) y principios a considerar al momento de evaluar sistemas de recomendación basados en tres tipos de experimentos: *offline*, *estudios de usuarios* y *online*. 
 
