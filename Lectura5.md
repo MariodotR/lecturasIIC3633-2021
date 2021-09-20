@@ -1,4 +1,4 @@
-# Comentarios semana 5: Combinando predictores
+# Comentarios semana 5: Combinando recomendadores
 
 **Paper:** Jahrer, M., Töscher, A. and Legenstein, R. (2010). Combining predictions for accurate recommender systems. In Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 693-702. ACM.
 
